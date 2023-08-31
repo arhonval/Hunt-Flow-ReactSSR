@@ -1,0 +1,12 @@
+.card-text,
+.dropdown-item {
+  cursor: pointer;
+}
+
+/* body {
+  position: fixed;
+} */
+
+body {
+  overflow: hidden;
+}
